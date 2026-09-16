@@ -1,0 +1,6 @@
+{
+  "name": "Samsung One UI Center",
+  "description": "Samsung telefonlari uchun Android va One UI versiyalari, dasturiy ta'minot tarixi, Galaxy A50 maxsus bo'limi, moslik tekshiruvi va rasmiy firmware katalogi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
